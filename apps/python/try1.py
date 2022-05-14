@@ -17,7 +17,7 @@ pattern = re.compile((
 # interesting tags:
 # rsvp_flow_stateMachine
 def filter(tag):
-    return tag == "reg_process"
+    return tag == "rsvp_api_open"
 
 def main():
     with open(LOGFILE) as f:

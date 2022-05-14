@@ -54,3 +54,6 @@ push statistics calculation cheaply into the running program
 "Thereafter,  a software  program  is  obligated  to  reveal  its nontrivial  execution  details with  appropriate density in an easy-to-follow way."
 
 It looked like it was going to get into what I was looking for, but then focused on debugging.
+
+https://www.usenix.org/legacy/event/lisa04/tech/full_papers/rouillard/rouillard.pdf
+
